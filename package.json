@@ -4,6 +4,7 @@
     "browser-sync": "^2.27.10",
     "concat": "^1.0.3",
     "del": "^6.1.1",
+    "documentjs": "^0.5.5",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
@@ -16,5 +17,7 @@
     "sass": "^1.52.3",
     "uglify": "^0.1.5"
   },
-  "scripts": {}
+  "scripts": {
+    
+  }
 }

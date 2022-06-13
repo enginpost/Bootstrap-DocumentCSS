@@ -1,0 +1,9 @@
+{
+    "sites":{
+        "styles":{
+            "glob":"site/assets/styles/**/*.css",
+            "dest":"site/styleguide",
+            "parent":"styles"
+        }
+    }
+}
